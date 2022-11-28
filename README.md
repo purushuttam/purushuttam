@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @purushuttam
-- 👀 I’m .NET Developer
+- 👀 I’m a .NET Developer
 - 📫 click this link to reach me ->  https://www.linkedin.com/in/purushuttam-kumar-319482138 
 
 <!---
